@@ -1,0 +1,27 @@
+{
+  "name": "lombardo",
+  "version": "1.0.0",
+  "description": "A Discord bot for Rocket League Volleyball",
+  "main": "lombardo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guzaboo/lombardo.git"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Khai Hirschi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Guzaboo/lombardo/issues"
+  },
+  "homepage": "https://github.com/Guzaboo/lombardo#readme",
+  "dependencies": {
+    "config.json": "0.0.4",
+    "discord.js": "^11.3.2"
+  }
+}
