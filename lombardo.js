@@ -1,6 +1,5 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-const fs = require("fs");
 
 var config = require('config.json')('./secrets.json');
 const token = config.token;
